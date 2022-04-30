@@ -4,3 +4,4 @@ opencv-python
 matplotlib
 numpy
 torchsummary
+stable-baselines3[extra]
