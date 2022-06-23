@@ -74,7 +74,12 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 runs/
-models/
+train/
+logs/
+*.pt
+*.pkl
+*.dat
+
 # IPython
 profile_default/
 ipython_config.py
